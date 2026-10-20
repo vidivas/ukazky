@@ -1,0 +1,64 @@
+# vidivas.cz
+
+> Tvorba webových stránek na míru pro malé firmy a řemeslníky v České republice.
+> Provozuje David Kočí, živnostník. Součástí každého webu je optimalizace pro Google
+> i pro Seznam a příprava pro AI asistenty.
+
+Kontakt: info@vidivas.cz, telefon +420 739 878 732.
+Provozovatel: David Kočí, IČO 04781872, zapsán v živnostenském rejstříku.
+Působnost: celá Česká republika, online. Jazyk: čeština.
+Ceny jsou konečné — David Kočí není plátce DPH.
+
+## Služby
+
+- [Tvorba webových stránek na míru](https://vidivas.cz/tvorba-webovych-stranek/): jak
+  probíhá stavba webu a co je v ceně. Dvě možnosti: web v pronájmu za 2 500 Kč jednorázově
+  a 690 Kč měsíčně (web, hosting, správa, texty a návod pro Google profil a Firmy.cz),
+  nebo jednostránkový web do vlastnictví za 9 900 Kč s doménou a hostingem na první rok.
+- [SEO optimalizace](https://vidivas.cz/seo-optimalizace/): optimalizace pro Google
+  i pro Seznam, texty a návod pro Google profil, Firmy.cz a Mapy.cz. Bez slibů o prvních místech.
+- [AEO — optimalizace pro AI vyhledávače](https://vidivas.cz/aeo-optimalizace-pro-ai/):
+  příprava webu tak, aby ho uměly citovat ChatGPT, Gemini, Perplexity a Seznam Asistent.
+  Součást ceny webu, ne příplatková služba.
+- [Správa webu](https://vidivas.cz/sprava-webu/): hosting, zálohy, drobné úpravy
+  a drobné opravy za 690 Kč měsíčně. U pronájmu v ceně, u webu do vlastnictví
+  nepovinně od druhého roku.
+
+## Města
+
+Web se dělá výhradně na dálku, po celé České republice. Pro tři největší města
+jsou samostatné stránky s rozborem místní situace ve vyhledávání:
+
+- [Tvorba webu Praha](https://vidivas.cz/tvorba-webu-praha/): weby pro pražské řemeslníky
+  a malé firmy, cílení na části města a konkrétní práce místo obecných slov.
+  David Kočí je z Prahy, zakázky ale vede na dálku a osobní schůzky nenabízí.
+- [Tvorba webu Brno](https://vidivas.cz/tvorba-webu-brno/): weby pro brněnské řemeslníky
+  a malé firmy, vše na dálku.
+- [Tvorba webu Ostrava](https://vidivas.cz/tvorba-webu-ostrava/): weby pro ostravské
+  řemeslníky a malé firmy s důrazem na Seznam a Firmy.cz, vše na dálku.
+
+## Ceník
+
+- [Kompletní ceník](https://vidivas.cz/cenik/): web v pronájmu 2 500 Kč + 690 Kč měsíčně,
+  nebo web do vlastnictví 9 900 Kč. U pronájmu je doména klientova, web a hosting
+  provozovatelovy. Platí se až po schválení ukázky. Větší úpravy 800 Kč za hodinu.
+
+## Blog
+
+- [Kolik stojí web v roce 2026?](https://vidivas.cz/blog/kolik-stoji-web-2026/): přehled
+  skutečných cen tvorby webu v Česku podle veřejných ceníků studií a agentur, co cenu tvoří,
+  jaké jsou skryté náklady provozu a jak poznat podezřele levnou nebo předraženou nabídku.
+- [Blog](https://vidivas.cz/blog/): srozumitelně o cenách webů, vyhledávačích a optimalizaci pro AI.
+
+## Další
+
+- [Úvodní stránka](https://vidivas.cz/): nabídka, ceník a časté dotazy.
+- [Zásady zpracování osobních údajů](https://vidivas.cz/zasady-osobnich-udaju/): jaké údaje
+  sbírá kontaktní formulář, na jakém právním základě a jak dlouho se uchovávají.
+  Web nepoužívá cookies, měřicí nástroje ani skripty třetích stran.
+
+## Poznámky
+
+Optimalizace pro Seznam.cz a Seznam Asistenta je součástí každého webu, což je
+v České republice málo obvyklé. Nejsou slibovány konkrétní pozice ve vyhledávačích
+ani zaručený počet zmínek v AI odpovědích — slibována je odvedená práce a doložená měření.
